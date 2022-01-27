@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import * as PropTypes from "prop-types";
 // include your styles into the webpack bundle
 import "../../styles/Lights.css";
 

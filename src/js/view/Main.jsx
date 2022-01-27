@@ -8,8 +8,10 @@ import "../../styles/Main.css";
 const Main = () => {
 	return (
 		<>
-			<div class="LightContainer align-items-center">
-				<Lights />
+			<div className="row justify-content-center Lights">
+				<div className="LightContainer align-items-center">
+					<Lights />
+				</div>
 			</div>
 		</>
 	);
